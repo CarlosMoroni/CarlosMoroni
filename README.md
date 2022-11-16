@@ -19,9 +19,9 @@
 
 ### Tecnologias
 <div>
-  <a><img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-  <a><img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-  <a><img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-  <a><img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-  <a><img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  <a href='https://developer.mozilla.org/pt-BR/docs/Web/HTML'><img width='45px' height='45px'       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href='https://developer.mozilla.org/pt-BR/docs/Web/CSS'><img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript'><img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a> 
+  <a href='https://pt-br.reactjs.org/'><img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href='https://git-scm.com/'><img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 </div>
