@@ -5,11 +5,10 @@
 
 - 🌱 no momento estou aprendendo ReactJS
 - 👯 Procuro colaborar como desenvolvimento Front-End 
-- 📫 Contato: carlosmoroni123@gmail.com
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=CarlosMoroni&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=CarlosMoroni&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
