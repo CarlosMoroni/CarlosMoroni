@@ -1,7 +1,10 @@
 ## Oi, eu sou o Carlos Moroni
 
+<img width='200px' heigth='200px' align="right" src='https://user-images.githubusercontent.com/92612454/202120039-fa1963dc-e7f9-4724-827f-914deb66b184.gif'/>
+
+
 - 🌱 no momento estou aprendendo ReactJS
-- 👯 Procuro colaborar como desenvolvimento Front-End
+- 👯 Procuro colaborar como desenvolvimento Front-End 
 - 📫 Contato: carlosmoroni123@gmail.com
 
 <picture>
@@ -14,7 +17,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+</picture> 
 <hr>
 
 ### Tecnologias
@@ -31,4 +34,6 @@
 <a href='https://api.whatsapp.com/send/?phone=5568992027759&text&type=phone_number&app_absent=0'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
 <a href='https://www.instagram.com/carlos_moroni18/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
 <a href='https://www.linkedin.com/in/carlos-moroni-59a448257/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+
+
 
