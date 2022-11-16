@@ -25,3 +25,11 @@
   <a href='https://pt-br.reactjs.org/'><img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
   <a href='https://git-scm.com/'><img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 </div>
+<hr>
+
+### Contatos
+<a href='https://api.whatsapp.com/send/?phone=5568992027759&text&type=phone_number&app_absent=0'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
+<a><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/></a>
+<a><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
+<a><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+
