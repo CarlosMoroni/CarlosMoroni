@@ -1,7 +1,7 @@
 ## Oi, eu sou o Carlos Moroni
 
 - 🌱 no momento estou aprendendo ReactJS
-- 👯 Procuro colaborar no desenvolvimento Front-End
+- 👯 Procuro colaborar como desenvolvimento Front-End
 - 📫 Contato: carlosmoroni123@gmail.com
 
 <picture>
