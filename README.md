@@ -1,6 +1,6 @@
 ## Oi, eu sou o Carlos Moroni
 
-<img width='200px' heigth='200px' align="right" src='https://user-images.githubusercontent.com/92612454/202120039-fa1963dc-e7f9-4724-827f-914deb66b184.gif'/>
+<img width='250px' heigth='250px' align="right" src='https://user-images.githubusercontent.com/92612454/202120039-fa1963dc-e7f9-4724-827f-914deb66b184.gif'/>
 
 
 - 🌱 no momento estou aprendendo ReactJS
